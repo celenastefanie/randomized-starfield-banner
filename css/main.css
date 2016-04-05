@@ -57,12 +57,15 @@ body {
 }
 
 @keyframes twinkle {
+  
   0% {
+
     width: 30px;
     height: 30px;
   }
 
   100% {
+
     width: 50px;
     height: 50%;
   }
